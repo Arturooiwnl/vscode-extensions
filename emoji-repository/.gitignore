@@ -1,0 +1,12 @@
+src/test/
+.vscode/
+.yarnrc
+dist/
+webpack.config.js
+vsc-extension-quickstart.md
+tsconfig.json
+eslint.config.mjs
+**.map
+.vscode-test.*
+package-lock.json
+node_modules/
