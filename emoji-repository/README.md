@@ -9,7 +9,7 @@ You can also search for any emoji by its name, category, or anything else that c
 
 ## 📸 Screenshots
 
-Preview
+![Preview](https://raw.githubusercontent.com/Arturooiwnl/vscode-extensions/refs/heads/main/images/preview-emoji-repo.png)
 
 ---
 
@@ -32,7 +32,7 @@ Además, podés buscar cualquier emoji por su nombre, categoría o lo que se te 
 
 ## 📸 Capturas
 
-Preview
+![Preview](https://raw.githubusercontent.com/Arturooiwnl/vscode-extensions/refs/heads/main/images/preview-emoji-repo.png)
 
 ---
 
